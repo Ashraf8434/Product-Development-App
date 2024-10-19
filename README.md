@@ -20,4 +20,4 @@ We believe that PetroAnalysis will become an invaluable resource for anyone invo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/PetroAnalysis.git
+   git clone https://github.com/Ashraf8434/Product-Development-App.git
